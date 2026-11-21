@@ -1,4 +1,4 @@
-## Hi everyone, JustScriptzz here,
+## Hi everyone, JustScriptzz here
 
 I' m a solo-developer of plenty of projects, even though I had to abandon most of them for both personal reasons and because they weren' t exciting anymore.
 
