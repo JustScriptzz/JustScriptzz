@@ -18,4 +18,4 @@ In 2026 then alongside NextRouter i had a lot of side projects such as making my
 
 That' all for now, i' ll update this when needed. 
 
-Last Updated: 11/21/2026
+Last Updated: 11/25/2026
