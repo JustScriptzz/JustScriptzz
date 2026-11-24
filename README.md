@@ -2,7 +2,7 @@
 
 I' m a solo-developer of plenty of projects, even though I had to abandon most of them for both personal reasons and because they weren' t exciting anymore.
 
-My most famous project is [NextRouter](https://nextrouter.me), i made a lot of versions of this so you might find older projects with the same name.
+My most famous project is [NextRouter](https://nextrouter.me) available at https://nextrouter.me,i made a lot of versions of this so you might find older projects with the same name.
 
 In mid 2024 I was really into [Lovable.dev](https://lovable.dev) (not made by me of course), and i used their website for side-project i worked on while i was bored such as:
 [FunWebGames](https://funwebgames.lovable.app)
